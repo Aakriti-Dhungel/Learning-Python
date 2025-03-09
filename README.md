@@ -1,4 +1,5 @@
 # Learning Python Basics  
+
 ## 15 Days of Learning
 
 A collection of Jupyter notebooks demonstrating **Python fundamentals**, including data types, loops, functions, and projects.  
